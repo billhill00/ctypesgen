@@ -8,6 +8,8 @@ ctypesgen is a pure-python ctypes wrapper generator. It can also
 output JSON, which can be used with Mork, which generates bindings for
 Lua, using the alien module (which binds libffi to Lua).
 
+Modified to produce python 3 compatible output.
+
 Documentation
 -------------
 
